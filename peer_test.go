@@ -2,7 +2,7 @@ package enet_test
 
 import (
 	"fmt"
-	"github.com/codecat/go-enet"
+	"github.com/nhh/go-enet"
 	"os"
 	"os/exec"
 	"runtime"
